@@ -2,8 +2,8 @@ import requests
 import re
 option=['A','B','C','D']
 website='http://172.22.214.200/ctas/ajaxpro/CExam.CPractice,App_Web_tzfdzrj8.ashx'
-print("欢迎使用刷题机V3.1，版权所有--Kadman")
-print("github地址：https://github.com/mkaaad/AutoWriter.git")
+print("欢迎使用刷题机")
+print("源码：https://github.com/mkaaad/AutoWriter.git")
 print("请输入cookie：")
 cookie=input()
 cookie={
